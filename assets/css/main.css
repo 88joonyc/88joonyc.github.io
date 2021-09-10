@@ -1669,7 +1669,7 @@ input, select, textarea {
 
 		.my-image {
 			content: url(../../images/IMG_3658.JPG);
-			width: 100px;
-			height: 100px;
-			border-radius: 100px;
+			width: 90px;
+			height: 90px;
+			border-radius: 90px;
 		}
