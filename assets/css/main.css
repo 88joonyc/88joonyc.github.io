@@ -1735,7 +1735,7 @@ body.is-preload #footer {
 }
 
 #header.my-image {
-    content: url(../../images/pc.png);
+    content: url(../../images/pc.jpeg);
     width: 5.5rem;
     height: 5.5rem;
     border-radius: 100%;
