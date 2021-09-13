@@ -1734,7 +1734,7 @@ body.is-preload #footer {
     opacity: 0;
 }
 
-#header.my-image {
+#header .my-image {
     content: url(../../images/pc.jpeg);
     width: 5.5rem;
     height: 5.5rem;
