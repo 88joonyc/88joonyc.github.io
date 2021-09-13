@@ -1734,8 +1734,8 @@ body.is-preload #footer {
     opacity: 0;
 }
 
-#header .my-image {
-    content: url(../../images/IMG_3658.JPG);
+#header.my-image {
+    content: url(../../images/pc.png);
     width: 5.5rem;
     height: 5.5rem;
     border-radius: 100%;
