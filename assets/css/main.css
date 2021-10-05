@@ -1741,6 +1741,6 @@ body.is-preload #footer {
     border-radius: 100%;
 }
 
-img:hover {
+.flash:hover {
     box-shadow: 3px 3px 10px rgb(237, 237, 237);
 }
