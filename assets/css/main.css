@@ -1740,3 +1740,7 @@ body.is-preload #footer {
     height: 5.5rem;
     border-radius: 100%;
 }
+
+img:hover {
+    box-shadow: 3px 3px 10px rgb(237, 237, 237);
+}
